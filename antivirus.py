@@ -1,3 +1,6 @@
+"""Plugin - Service to check for virus, malware and other threats """
+
+
 import os
 import pyclamd
 import logging
